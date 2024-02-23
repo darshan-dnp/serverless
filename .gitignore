@@ -1,0 +1,5 @@
+# Dependency Files
+package/
+
+# MAC files
+.DS_Store
